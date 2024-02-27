@@ -1,0 +1,3 @@
+.terraform/
+certificate_details.txt
+.terraform.lock
